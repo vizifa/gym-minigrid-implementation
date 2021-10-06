@@ -1,4 +1,4 @@
-# gym-minigrid-implementation
+# Gym-minigrid Implementation
 Training an agent using RL tabular methods on gym-minigrid
 
 The agent has been trained using 3 algoriths:
