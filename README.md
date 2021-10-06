@@ -12,11 +12,11 @@ The agent was trained on 4 environments:
   3. 8x8 Empty room
   4. Four Rooms
   
-Resuts:
+## Resuts:
 
 Graphs between episode and rewards and episode and steps were plotted.
 
-Sarsa0:
+### Sarsa0:
 
 5x5 Empty room
 
@@ -30,7 +30,7 @@ Sarsa0:
 
 ![sarsa0_8x8](https://user-images.githubusercontent.com/88096518/136146527-057c1236-f004-43ad-bc70-e253004eb6c0.png)
 
-Sarsa-lambda
+### Sarsa-lambda
 
 5x5 Empty room
 
@@ -54,7 +54,7 @@ Comparing different alpha:
 
 ![4roomdiffalpha](https://user-images.githubusercontent.com/88096518/136146926-61a95f3d-bfe8-4351-acb6-a633379f4f1b.png)
 
-Q-Learning:
+### Q-Learning:
 
 5x5 Empty room
 
