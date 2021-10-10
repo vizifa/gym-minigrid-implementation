@@ -1,5 +1,6 @@
 # Gym-minigrid Implementation
 Training an agent using RL tabular methods on gym-minigrid
+gym-minigrid - https://github.com/maximecb/gym-minigrid
 
 The agent has been trained using 3 algoriths:
   1. Sarsa0
