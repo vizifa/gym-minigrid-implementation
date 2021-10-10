@@ -1,5 +1,5 @@
 # Gym-minigrid Implementation
-Training an agent using RL tabular methods on gym-minigrid
+Training an agent using RL tabular methods, namely TD learning on gym-minigrid
 
 gym-minigrid - https://github.com/maximecb/gym-minigrid
 
